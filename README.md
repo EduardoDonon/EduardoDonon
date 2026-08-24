@@ -36,23 +36,10 @@
 
 <!-- SEÇÃO DE TECNOLOGIAS (ÍCONES ALINHADOS) -->
 <h2>🛠️ I Code With</h2>
-<p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="html5" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://w3.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="css3" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="git" width="45" height="45"/>
-  </a>
-</p>
+
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
 
 <br />
 

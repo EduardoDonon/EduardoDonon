@@ -27,7 +27,6 @@
 <h2>⏳ Currently Learning</h2>
 <p>
   • 📚 Python
-  
   • 🛠️ HTML
 
 <p>

@@ -12,12 +12,6 @@
   <br><br>
   📧 <a href="mailto:EduardoDonon@outlook.com"><b>Outlook</b></a> 
   &nbsp;|&nbsp;
-  📧 <a href="mailto:COLE_SEU_EMAIL_AQUI@gmail.com"><b>Gmail</b></a> 
-  &nbsp;|&nbsp;
-  💼 <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI"><b>LinkedIn</b></a> 
-  &nbsp;|&nbsp;
-  📸 <a href="COLE_O_LINK_DO_SEU_INSTAGRAM_AQUI"><b>Instagram</b></a>
-</p>
 
 <br />
 

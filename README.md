@@ -1,11 +1,9 @@
-###
-
-<p data-importer="text" align="center">Hi! im Eduardo from Brazil</p>
-
-###
 
 ![Texto Alternativo](https://i.postimg.cc/ZqtSvZRf/Captura-de-tela-2026-08-24-150032.png)
 
+###
+
+<p data-importer="text" align="center">Hi! im Eduardo from Brazil</p>
 
 ###
 

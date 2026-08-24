@@ -37,10 +37,11 @@
 
 <!-- I code with) -->
 <h2>🛠️ I Code With
+  
+<br />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-<br /> </h2>
+</div></h2>
 
 

@@ -1,6 +1,6 @@
 ###
 
-<strong data-importer="text" style="display: block; text-align: middle;">Hi! I´m Eduardo, from Brazil.</strong>
+<p data-importer="text" align="left">Hi! im Eduardo from Brazil</p>
 
 ###
 

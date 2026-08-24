@@ -1,3 +1,124 @@
+<!-- CONTADOR DE VISITAS DISCRETO -->
+<p align="right">
+  <img src="https://komarev.com" alt="Contador de Visitas" />
+</p>
+
+<!-- CABEÇALHO COM SEU GIF E BOAS-VINDAS -->
+<p align="center">
+  <img width="192" height="192" alt="gif" src="https://github.com" />
+</p>
+
+<h1 align="center">Hi! I'm Eduardo from Brazil 👋</h1>
+
+<!-- BOTÕES DAS REDES SOCIAIS -->
+<p align="center">
+  <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:COLE_SEU_EMAIL_AQUI@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="COLE_O_LINK_DO_SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
+
+<br />
+
+<!-- SEÇÃO SOBRE MIM -->
+<h2>🌟 About Me</h2>
+<p>
+  • 💻 Sou apaixonado por tecnologia e focado no desenvolvimento de software.<br />
+  • 🚀 Atualmente desenvolvendo projetos práticos para consolidar minha base técnica.<br />
+  • 💬 Sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo!
+</p>
+
+<br />
+
+<!-- SEÇÃO DE APRENDIZADO -->
+<h2>⏳ Currently Learning</h2>
+<p>
+  • 📚 Aprofundando conhecimentos em desenvolvimento web, design responsivo e lógica de programação.<br />
+  • 🛠️ Estudando estruturas de dados e versionamento de código com Git e GitHub.
+</p>
+
+<br />
+
+<!-- SEÇÃO DE TECNOLOGIAS (ÍCONES ALINHADOS) -->
+<h2>🛠️ I Code With</h2>
+<p align="left">
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="html5" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://w3.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="css3" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="git" width="45" height="45"/>
+  </a>
+</p>
+
+<br />
+
+<!-- ESTATÍSTICAS REAIS DO SEU PERFIL (ATUALIZAM SOZINHAS) -->
+<h2>📊 GitHub Analytics</h2>
+<p align="center">
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###
 
 <p align="center">

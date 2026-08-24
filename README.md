@@ -4,8 +4,12 @@
 
 <h1 align="center">Hi! I'm Eduardo from Brazil 👋</h1>
 
+<a href="mailto:Eduardodonon@outlook.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+
 <!-- BOTÕES DAS REDES SOCIAIS -->
-<p align="center">
+<!--<p align="center">
   <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>

@@ -23,7 +23,6 @@
 <p>
   • 🚀 Currently developing practical projects to consolidate my technical foundation.<br />
   • 💬 Feel free to explore my repositories or get in touch with me!</p>
-
 <br />
 
 <!-- Learning -->

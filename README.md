@@ -2,7 +2,7 @@
 ###
 
 <p align="center">
-  <img width="192" height="192" alt="gif" src="https://github.com" />
+  <img width="192" height="192" alt="gif" src="[https://github.com](https://github.com/user-attachments/assets/a8132505-1562-4135-8fd0-6bc49eadb467)" />
 </p>
 
 

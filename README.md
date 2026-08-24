@@ -6,7 +6,7 @@
 ###
 
 <h1 data-importer="text" align="left">🌟About me</h1>
-<p data-importer="text" align= "left">teste legal</p>
+<p data-importer="text" align= "left"></p>
 
 ###
 

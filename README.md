@@ -1,22 +1,3 @@
-<div align="center">
-  <table background="https://githubusercontent.com" width="100%" style="border-radius: 10px; overflow: hidden;">
-    <tr>
-      <td align="center" style="padding: 40px 20px;">
-        <br />
-        <h2 style="color: #ffffff; text-shadow: 2px 2px 8px #000000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-          👋 Hi! I'm Eduardo from Brazil
-        </h2>
-        <br />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-
 ###
 
 <p align="center">

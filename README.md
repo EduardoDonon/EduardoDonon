@@ -1,6 +1,4 @@
 
-![Texto Alternativo]([![Captura-de-tela-2026-08-24-150032.png](https://i.postimg.cc/ZqtSvZRf/Captura-de-tela-2026-08-24-150032.png)](https://postimg.cc/jDX9BpyN))
-
 ###
 
 <p data-importer="text" align="center">Hi! im Eduardo from Brazil</p>

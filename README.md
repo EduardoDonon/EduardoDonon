@@ -45,7 +45,8 @@
 <br />
 
 <!-- Statistics -->
-<h2>📊Analytics</h2>
+<h2>📊 
+  Analytics</h2>
 <p align="center">
   <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
   <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />

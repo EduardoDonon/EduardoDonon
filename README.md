@@ -27,8 +27,8 @@
 <h2>⏳ Currently Learning</h2>
 
 <p>
-  📚 Python<br>
-  🛠️ HTML
+  🐍 Python<br>
+  📄 HTML
 </p>
 <br />
 

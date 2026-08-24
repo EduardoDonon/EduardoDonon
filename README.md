@@ -14,6 +14,8 @@
   &nbsp;|&nbsp;
 
 <br />
+<h2> Projects</h2>
+
 
 <!-- SEÇÃO SOBRE MIM -->
 <h2>🌟 About Me</h2>

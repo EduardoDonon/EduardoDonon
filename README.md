@@ -26,8 +26,8 @@
 <!-- SEÇÃO DE APRENDIZADO -->
 <h2>⏳ Currently Learning</h2>
 <p>
-  • 📚 
-  • 🛠️ 
+  • 📚 asdada
+  • 🛠️ asdada
 </p>
 
 <br />

@@ -1,5 +1,5 @@
 
-![Texto Alternativo](https://i.postimg.cc/ZqtSvZRf/Captura-de-tela-2026-08-24-150032.png)
+![Texto Alternativo]([https://i.postimg.cc/ZqtSvZRf/Captura-de-tela-2026-08-24-150032.png](https://postimg.cc/ZWKjvCyF))
 
 ###
 

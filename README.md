@@ -25,10 +25,10 @@
 
 <!-- SEÇÃO DE APRENDIZADO -->
 <h2>⏳ Currently Learning</h2>
-<p>
-  • 📚 asdada
-  • 🛠️ asdada
-</p>
+
+ <p> • 📚 asdada<p>
+ <p> • 🛠️ asdada<p>
+
 
 <br />
 

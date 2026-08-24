@@ -10,7 +10,7 @@
 <p align="center">
   📬 <b>Contatos e Redes Sociais:</b>
   <br><br>
-  📧 <a href="mailto: A EduardoDonon@outlook.com"><b>Outlook</b></a> 
+  📧 &nbsp;|&nbsp; <a href="mailto:EduardoDonon@outlook.com"><b>Outlook</b></a> 
   &nbsp;|&nbsp;
 
 <br />

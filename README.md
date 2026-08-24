@@ -26,8 +26,8 @@
 <!-- SEÇÃO DE APRENDIZADO -->
 <h2>⏳ Currently Learning</h2>
 <p>
-  • 📚 Aprofundando conhecimentos em desenvolvimento web, design responsivo e lógica de programação.<br />
-  • 🛠️ Estudando estruturas de dados e versionamento de código com Git e GitHub.
+  • 📚 
+  • 🛠️ 
 </p>
 
 <br />

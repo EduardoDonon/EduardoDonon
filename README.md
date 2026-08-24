@@ -7,7 +7,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🌟About me</h1>b.com/user-attachments/assets/7a83795f-068f-4dc3-a078-1a1ccd5faa84" />
+<h2 data-importer="text" align="left">🌟About me</h1>
 
 <p data-importer="text" align= "left"></p>
 

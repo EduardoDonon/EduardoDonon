@@ -1,4 +1,4 @@
-<!-- CABEÇALHO COM SEU GIF E BOAS-VINDAS -->
+<!-- Hello -->
 <p align="center">
   <img width="192" height="192" alt="gif" src="https://github.com/user-attachments/assets/b5100f59-b6ed-4f03-b866-9ecbc97fa10d" />
 
@@ -6,7 +6,7 @@
 
 
 
-<!-- BOTÕES DAS REDES SOCIAIS -->
+<!-- Social Media -->
 <p align="center">
   📬 <b>Contatos e Redes Sociais:</b>
   <br><br>
@@ -14,10 +14,11 @@
   &nbsp;|&nbsp;
 
 <br />
+
 <h2> Projects</h2>
 
 
-<!-- SEÇÃO SOBRE MIM -->
+<!-- About me -->
 <h2>🌟 About Me</h2>
 <p>
   • 🚀 Currently developing practical projects to consolidate my technical foundation.<br />
@@ -25,7 +26,7 @@
 
 <br />
 
-<!-- SEÇÃO DE APRENDIZADO -->
+<!-- Learning -->
 <h2>⏳ Currently Learning</h2>
 
 <p>
@@ -34,7 +35,7 @@
 </p>
 <br />
 
-<!-- SEÇÃO DE TECNOLOGIAS (ÍCONES ALINHADOS) -->
+<!-- I code with) -->
 <h2>🛠️ I Code With</h2>
 
   <img width="12" />
@@ -43,7 +44,7 @@
 
 <br />
 
-<!-- ESTATÍSTICAS REAIS DO SEU PERFIL (ATUALIZAM SOZINHAS) -->
+<!-- Statistics -->
 <h2>📊 GitHub Analytics</h2>
 <p align="center">
   <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />

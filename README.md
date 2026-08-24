@@ -16,7 +16,6 @@
 ###
 
 <h2 data-importer="text" align="left">🛠️I code with</h2>
-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>

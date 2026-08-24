@@ -2,8 +2,8 @@
 ###
 
 <p align="center">
-  <img width="192" height="192" alt="gif" src="[https://github.com](https://github.com/user-attachments/assets/a8132505-1562-4135-8fd0-6bc49eadb467)" />
-</p>
+  <img width="192" height="192" alt="gif" src="https://github.com/user-attachments/assets/b5100f59-b6ed-4f03-b866-9ecbc97fa10d" />
+
 
 
 <h2 data-importer="text" align="center">Hi! im Eduardo from Brazil</h2>

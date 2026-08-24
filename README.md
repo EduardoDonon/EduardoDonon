@@ -1,10 +1,3 @@
-<!-- CONTADOR DE VISITAS DISCRETO -->
-<p align="right">
-  <img src="https://hitscounter.dev" alt="Contador de Visitas" />
-</p>
-
-
-
 <!-- CABEÇALHO COM SEU GIF E BOAS-VINDAS -->
 <p align="center">
   <img width="192" height="192" alt="gif" src="https://github.com/user-attachments/assets/b5100f59-b6ed-4f03-b866-9ecbc97fa10d" />

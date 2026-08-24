@@ -5,7 +5,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🌟About me</h2>
+<h1 data-importer="text" align="left">🌟About me</h1>
 
 ###
 

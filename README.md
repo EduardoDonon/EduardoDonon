@@ -1,7 +1,9 @@
 <!-- CONTADOR DE VISITAS DISCRETO -->
 <p align="right">
-  <img src="https://glitch.me" alt="Contador de Visitas" />
+  <img src="https://hitscounter.dev" alt="Contador de Visitas" />
 </p>
+
+
 
 <!-- CABEÇALHO COM SEU GIF E BOAS-VINDAS -->
 <p align="center">

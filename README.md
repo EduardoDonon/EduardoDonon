@@ -4,6 +4,11 @@
 
 ###
 
+![Texto Alternativo](https://i.postimg.cc/ZqtSvZRf/Captura-de-tela-2026-08-24-150032.png)
+
+
+###
+
 <h2 data-importer="text" align="left">🌟About me</h2>
 
 ###

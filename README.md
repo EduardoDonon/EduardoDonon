@@ -15,7 +15,7 @@
 
 <br />
 
-<h2> Projects</h2>
+
 
 
 <!-- About me -->

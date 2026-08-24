@@ -1,6 +1,6 @@
 <!-- CONTADOR DE VISITAS DISCRETO -->
 <p align="right">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
+  <img src="https://glitch.me" alt="Contador de Visitas" />
 </p>
 
 <!-- CABEÇALHO COM SEU GIF E BOAS-VINDAS -->

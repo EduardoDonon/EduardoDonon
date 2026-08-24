@@ -25,11 +25,11 @@
 
 <!-- SEÇÃO DE APRENDIZADO -->
 <h2>⏳ Currently Learning</h2>
+<p>
+  • 📚 asdada
+  • 🛠️ asdada
 
- <p> • 📚 asdada<p>
- <p> • 🛠️ asdada<p>
-
-
+<p>
 <br />
 
 <!-- SEÇÃO DE TECNOLOGIAS (ÍCONES ALINHADOS) -->

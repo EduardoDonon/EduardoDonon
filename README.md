@@ -25,11 +25,11 @@
 
 <!-- SEÇÃO DE APRENDIZADO -->
 <h2>⏳ Currently Learning</h2>
-<p>
-  • 📚 Python
-  • 🛠️ HTML
 
 <p>
+  📚 Python<br>
+  🛠️ HTML
+</p>
 <br />
 
 <!-- SEÇÃO DE TECNOLOGIAS (ÍCONES ALINHADOS) -->

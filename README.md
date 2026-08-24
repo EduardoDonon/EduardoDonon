@@ -8,10 +8,15 @@
 
 <!-- BOTÕES DAS REDES SOCIAIS -->
 <p align="center">
-  <a href="mailto:EduardoDonon@outlook.com"><img src="https://shields.io" alt="Outlook"></a>
-  <a href="mailto:COLE_SEU_EMAIL_AQUI@gmail.com"><img src="https://shields.io" alt="Gmail"></a>
-  <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="COLE_O_LINK_DO_SEU_INSTAGRAM_AQUI"><img src="https://shields.io" alt="Instagram"></a>
+  📬 <b>Contatos e Redes Sociais:</b>
+  <br><br>
+  📧 <a href="mailto:EduardoDonon@outlook.com"><b>Outlook</b></a> 
+  &nbsp;|&nbsp;
+  📧 <a href="mailto:COLE_SEU_EMAIL_AQUI@gmail.com"><b>Gmail</b></a> 
+  &nbsp;|&nbsp;
+  💼 <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI"><b>LinkedIn</b></a> 
+  &nbsp;|&nbsp;
+  📸 <a href="COLE_O_LINK_DO_SEU_INSTAGRAM_AQUI"><b>Instagram</b></a>
 </p>
 
 <br />

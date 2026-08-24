@@ -1,7 +1,7 @@
 
 ###
 
-<p data-importer="text" align="center">Hi! im Eduardo from Brazil</p>
+<h2 data-importer="text" align="center">Hi! im Eduardo from Brazil</h2>
 
 ###
 

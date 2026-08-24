@@ -18,10 +18,8 @@
 <!-- SEÇÃO SOBRE MIM -->
 <h2>🌟 About Me</h2>
 <p>
-  • 💻 Sou apaixonado por tecnologia e focado no desenvolvimento de software.<br />
-  • 🚀 Atualmente desenvolvendo projetos práticos para consolidar minha base técnica.<br />
-  • 💬 Sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo!
-</p>
+  • 🚀 Currently developing practical projects to consolidate my technical foundation.<br />
+  • 💬 Feel free to explore my repositories or get in touch with me!</p>
 
 <br />
 

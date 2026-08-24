@@ -1,12 +1,10 @@
-<h1 data-importer="text" align="left">Eduardo</h1>
-
 ###
 
 <p data-importer="text" align="left">I´m Eduardo, from Brazil.</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">🌟About me</h2>
 
 ###
 

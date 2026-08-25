@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi! I'm Eduardo from Brazil </h1>
 
-
-
 <!-- Social Media -->
 <p align="center">
   📬 <b>Contatos e Redes Sociais:</b>
@@ -14,8 +12,6 @@
   &nbsp;|&nbsp;
 
 <br />
-
-
 
 
 <!-- About me -->
